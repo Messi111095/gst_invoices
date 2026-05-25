@@ -6,8 +6,6 @@ git init
 git add .
 git commit -m "commit message"
 
-git branch -M main
-
 git remote add origin https://github.com/Messi111095/gst_invoices.git
 
 git push -u origin main
